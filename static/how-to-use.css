@@ -1,0 +1,318 @@
+.how-to-use-child,
+.vector-icon45 {
+  position: absolute;
+  top: -282px;
+  left: 16.1px;
+  width: 483.7px;
+  height: 438.4px;
+}
+.vector-icon45 {
+  height: 0.64%;
+  width: 7.77%;
+  top: 98.84%;
+  right: 3.39%;
+  bottom: 0.52%;
+  left: 88.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.vector-icon46,
+.vector-icon47 {
+  position: absolute;
+  top: -297.1px;
+  left: 16px;
+  width: 492.7px;
+  height: 469.4px;
+}
+.vector-icon47 {
+  top: 681px;
+  left: 239px;
+  width: 271.1px;
+  height: 258.3px;
+}
+.how-to-use-item,
+.vector-icon48 {
+  position: absolute;
+  top: 681px;
+  left: 249.2px;
+  width: 261px;
+  height: 248.6px;
+}
+.how-to-use-item {
+  top: 346.5px;
+  left: 626.7px;
+  width: 83.9px;
+  height: 85.6px;
+  overflow: hidden;
+}
+.star-icon15 {
+  width: 999.3px;
+  position: relative;
+  height: 999.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button15 {
+  position: relative;
+  line-height: 100%;
+}
+.button-danger15 {
+  position: absolute;
+  top: -1763.1px;
+  left: -19582.3px;
+  border-radius: 294.44px;
+  background-color: var(--color-royalblue);
+  border: 62.5px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 15180.3px;
+  height: 2061.1px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-300);
+  gap: var(--space-200);
+  font-size: 999.3px;
+  color: var(--color-white);
+}
+.send-promotions-to {
+  position: absolute;
+  top: 81.4px;
+  left: 224px;
+  letter-spacing: -0.93px;
+  line-height: 100.5%;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 731.6px;
+  height: 94px;
+}
+.imagine-reaching-out {
+  position: absolute;
+  top: 175.4px;
+  left: 229px;
+  font-size: var(--font-size-4xl);
+  line-height: 100%;
+  display: inline-block;
+  width: 486.6px;
+  height: 80.5px;
+}
+.save-time-on {
+  top: 314.6px;
+  left: 224.8px;
+  letter-spacing: -0.93px;
+  line-height: 100.5%;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  width: 730.7px;
+  height: 135.9px;
+}
+.click-the-watch,
+.if-you-have,
+.save-time-on {
+  position: absolute;
+  display: inline-block;
+}
+.click-the-watch {
+  top: 605.7px;
+  left: 484.9px;
+  font-size: 32.7px;
+  letter-spacing: -0.82px;
+  line-height: 100.5%;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  width: 609.1px;
+  height: 73px;
+}
+.if-you-have {
+  top: 409.4px;
+  left: 229px;
+  font-size: var(--font-size-4xl);
+  line-height: 100%;
+  width: 486.6px;
+  height: 143.5px;
+}
+.star-icon16 {
+  width: 850.8px;
+  position: relative;
+  height: 850.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button-danger16 {
+  position: absolute;
+  top: 1390.5px;
+  left: -14811px;
+  border-radius: 270.72px;
+  background-color: var(--color-royalblue);
+  border: 53.2px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 8513.9px;
+  height: 1461.1px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-300);
+  gap: var(--space-200);
+  font-size: 850.8px;
+  color: var(--text-danger-on-danger);
+}
+.star-icon17 {
+  width: 27px;
+  position: relative;
+  height: 27px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button-danger17 {
+  position: absolute;
+  top: 703.9px;
+  left: 626.7px;
+  border-radius: 8.59px;
+  background-color: var(--color-royalblue);
+  border: 1.7px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 240.8px;
+  height: 37.8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-300) var(--space-300);
+  gap: var(--space-200);
+  font-size: 27px;
+  color: var(--text-danger-on-danger);
+}
+.group-child10,
+.how-to-use-inner {
+  position: absolute;
+  top: 151.1px;
+  left: 863.5px;
+  width: 301.7px;
+  height: 410.4px;
+}
+.group-child10 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  height: 60.8px;
+}
+.home3 {
+  width: 36.2px;
+  position: relative;
+  flex-shrink: 0;
+}
+.home3,
+.how-to-use4,
+.support3 {
+  text-decoration: underline;
+  line-height: 100%;
+  color: inherit;
+  display: inline-block;
+  height: 12.6px;
+}
+.how-to-use4 {
+  width: 68.8px;
+  position: relative;
+  flex-shrink: 0;
+}
+.support3 {
+  width: 48.8px;
+}
+.pricing3,
+.star-icon18,
+.support3 {
+  position: relative;
+  flex-shrink: 0;
+}
+.pricing3 {
+  width: 41.5px;
+  text-decoration: underline;
+  line-height: 100%;
+  color: inherit;
+  display: inline-block;
+  height: 12.6px;
+}
+.star-icon18 {
+  width: 13.7px;
+  height: 13.7px;
+  overflow: hidden;
+  display: none;
+}
+.button-danger18 {
+  width: 78.8px;
+  border-radius: 4.35px;
+  background-color: var(--color-royalblue);
+  border: 0.9px solid var(--color-royalblue);
+  box-sizing: border-box;
+  height: 19.1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-300) var(--space-300);
+  gap: var(--space-200);
+  font-size: var(--font-size-sm-7);
+  color: var(--text-danger-on-danger);
+}
+.home-container {
+  position: absolute;
+  top: 21.3px;
+  right: 29.9px;
+  width: 373.5px;
+  height: 18.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl-3);
+}
+.rectangle-container {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 60.8px;
+  font-size: var(--font-size-smi-8);
+}
+.privacy2 {
+  position: relative;
+  text-decoration: underline;
+  color: inherit;
+}
+.privacy-container {
+  position: absolute;
+  top: 736px;
+  left: 28px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl-4);
+  font-size: var(--font-size-2xs-8);
+}
+.how-to-use3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-lightsteelblue);
+  height: 764px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-18xl-2);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
